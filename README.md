@@ -42,10 +42,14 @@ Each ZIP contains **one installer only**: choose the archive matching your Windo
 
 ## 🛠️ Installation
 
-1. Select the x64 or x86 ZIP that matches your Windows system.
-2. Extract the ZIP. It contains the matching setup program and `LICENSE.txt`.
-3. Run the setup program and follow the installation prompts.
-4. Open Everything and enter a file or folder name to search.
+Get started in four quick steps:
+
+| Step | What to do |
+|:---:|---|
+| **01** | **Choose your version.** Select x64 for most PCs, or x86 for 32-bit Windows. |
+| **02** | **Extract the ZIP.** It contains the matching setup program and `LICENSE.txt`. |
+| **03** | **Install.** Run the setup program and follow the on-screen prompts. |
+| **04** | **Start searching.** Open Everything and enter a file or folder name. |
 
 ## 🔐 Verify your download
 
@@ -68,4 +72,5 @@ The installers are original, unmodified files and retain their publisher signatu
 
 - [Download repository and releases](https://github.com/EthingSoft/everything-download)
 - [Official Everything installer page](https://EthingSoft.github.io/)
+- [Website source repository](https://github.com/EthingSoft/EthingSoft.github.io)
 - [EthingSoft profile](https://github.com/EthingSoft)
