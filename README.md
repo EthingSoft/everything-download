@@ -10,11 +10,11 @@
 |:---:|:---:|:---:|:---:|
 | Windows | **1.4.1.1032 stable** | **x64** · **x86** | Separate ZIP archives |
 
-<a href="https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-x64-Windows.zip"><img src="assets/download-x64.svg" alt="Download Everything for Windows x64"></a>
+<a href="https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-x64-Windows.zip"><img src="assets/download-x64-light.svg" alt="Download Everything for Windows x64"></a>
 &nbsp;
-<a href="https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-x86-Windows.zip"><img src="assets/download-x86.svg" alt="Download Everything for Windows x86"></a>
+<a href="https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-x86-Windows.zip"><img src="assets/download-x86-light.svg" alt="Download Everything for Windows x86"></a>
 &nbsp;
-<a href="https://github.com/EthingSoft/everything-download/releases"><img src="assets/releases.svg" alt="Browse all Everything releases"></a>
+<a href="https://github.com/EthingSoft/everything-download/releases"><img src="assets/releases-light.svg" alt="Browse all Everything releases"></a>
 
 </div>
 
