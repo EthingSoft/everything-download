@@ -37,7 +37,7 @@ Everything is a Windows desktop search utility focused on file and folder names.
 
 ## Package and license
 
-This official distribution contains the original, unmodified Everything installers. The stable release is version **1.4.1.1032**; beta builds and portable application packages are not included. Each architecture is provided in its own ZIP containing only its matching installer.
+This official distribution contains the original, unmodified Everything installers. The stable release is version **1.4.1.1032**; beta builds and portable application packages are not included. Each architecture is provided in its own ZIP with its matching installer and the required license notices.
 
 Everything is copyright © 2018 David Carpenter and is distributed under the license included in [`LICENSE.txt`](LICENSE.txt). That license permits copying and distribution subject to the included copyright and permission notice. The license file also contains the applicable notice for PCRE.
 
