@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="48" viewBox="0 0 164 48" role="img" aria-labelledby="title">
+  <title id="title">View all releases</title>
+  <rect x=".5" y=".5" width="163" height="47" rx="13" fill="#fff" stroke="#d7dfef"/>
+  <path d="M20 14h13v20H20zM23 19h7m-7 4h7m-7 4h5" fill="none" stroke="#5366d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+  <text x="43" y="21" fill="#293957" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">BROWSE</text>
+  <text x="43" y="35" fill="#586985" font-family="Segoe UI,Arial,sans-serif" font-size="12">All releases</text>
+</svg>
