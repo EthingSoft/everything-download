@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Everything for Windows</title>
+  <desc id="desc">Stable Windows file search installers for x64 and x86</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10172a"/>
+      <stop offset="1" stop-color="#253b68"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6ea8ff"/>
+      <stop offset="1" stop-color="#a98aff"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#637cf0" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#637cf0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#background)"/>
+  <circle cx="1020" cy="68" r="290" fill="url(#glow)"/>
+  <path d="M0 260c210-85 330 65 550-8s395-62 650 10v58H0Z" fill="#ffffff" opacity=".035"/>
+  <g transform="translate(82 82)" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="66" cy="66" r="47" stroke-width="12"/>
+    <path d="m101 101 43 43" stroke-width="15"/>
+    <path d="M46 66h40M66 46v40" stroke="#fff" stroke-width="6" opacity=".9"/>
+  </g>
+  <text x="275" y="130" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="700" letter-spacing="-1">Everything</text>
+  <text x="278" y="178" fill="#c6d3ed" font-family="Segoe UI,Arial,sans-serif" font-size="22">Fast file and folder name search for Windows</text>
+  <g transform="translate(278 214)">
+    <rect width="176" height="42" rx="21" fill="#ffffff" opacity=".12"/>
+    <circle cx="22" cy="21" r="5" fill="#65e0ae"/>
+    <text x="38" y="27" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">STABLE 1.4.1.1032</text>
+    <rect x="190" width="116" height="42" rx="21" fill="#ffffff" opacity=".12"/>
+    <text x="248" y="27" fill="#fff" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">x64 · x86</text>
+  </g>
+  <g transform="translate(902 94)" fill="none" stroke="#fff" stroke-width="4" opacity=".6">
+    <rect x="0" y="0" width="194" height="138" rx="18"/>
+    <path d="M0 42h194M36 21h.1M55 21h.1M74 21h.1"/>
+    <circle cx="67" cy="87" r="23"/>
+    <path d="m84 104 21 21M112 74h42M112 92h34M112 110h25"/>
+  </g>
+</svg>
